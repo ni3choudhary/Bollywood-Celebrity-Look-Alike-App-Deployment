@@ -49,8 +49,6 @@ Use the files as following to create the demo from scratch or create your own de
 $ streamlit run app.py
 ```
 
-• If you want to view the deployed model, click on the following link: Deployed at: https://movie-recommeder-ni3.herokuapp.com/
-
 • Please do ⭐ the repository, if it helped you in anyway.
 
 
