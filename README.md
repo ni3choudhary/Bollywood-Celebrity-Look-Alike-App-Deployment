@@ -30,7 +30,7 @@ I have tried to add some more actors images into the original data. For this we 
 ## The Files explained
 Use the files as following to create the demo from scratch or create your own demo in an adapted way.
 
-* **1.** First create a **data** folder and combine all the three dataset folder downloded from kaggle.
+**1.** First create a **data** folder and combine all the three dataset folder downloded from kaggle.
 
 * **2. scraper.py** to scrape for some more bollywood celebrity images which will give you a celebrity list pickle file.
 
@@ -38,11 +38,11 @@ Use the files as following to create the demo from scratch or create your own de
 
 * **4. rename_files.py** to rename the files in one format.
 
-* **5. face_crop_mtcnn.py to only get the faces from the freshly downloaded images from data_downloader.py file.
+* **5. face_crop_mtcnn.py** to only get the faces from the freshly downloaded images from data_downloader.py file.
 
-* **6. actors_filenames_extractor.py to extract filenames from all the sub-directory present in data directory.
+* **6. actors_filenames_extractor.py** to extract filenames from all the sub-directory present in data directory.
 
-* **7. feature_extractor.py to create embeddings for all faces present in data directory.
+* **7. feature_extractor.py** to create embeddings for all faces present in data directory.
 
 - Now run app.py on terminal to start local server.
 ```console
