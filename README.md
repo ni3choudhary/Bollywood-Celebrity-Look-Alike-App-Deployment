@@ -1,7 +1,7 @@
 # Bollywood-Celebrity-Look-Alike-App-Deployment 
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/datasets/sushilyadav1998/bollywood-celeb-localized-face-dataset) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
-The demo will take an image and detects all faces in it. If a face is found then it will indentify which celebrity looks the face most closely. The demo will display the resulting celebrity with his image and name along with the uploaded image.
+The demo will take an image and detects all faces in it. If a face is found then it will identify which celebrity looks the face most closely. The demo will display the resulting celebrity with his image and name along with the uploaded image.
 
 ### Dataset
 You can find the dataset [here.](https://www.kaggle.com/datasets/sushilyadav1998/bollywood-celeb-localized-face-dataset)
