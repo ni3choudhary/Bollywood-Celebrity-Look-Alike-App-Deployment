@@ -22,8 +22,8 @@ downloaded_actors_images = ['Fatima_Sana_Shaikh', 'Imran_Khan', 'Mithun_Chakrabo
                             'Rajinikanth', 'Anupam_Kher', 'Diljit_Dosanjh',\
                             'Aditya_Roy_Kapur']
 
-# for actor in download_bing_actors:
-#     downloader.download(actor, limit=100,  output_dir='data', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+for actor in download_bing_actors:
+    downloader.download(actor, limit=100,  output_dir='data', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
 
 pickle.dump(downloaded_actors_images, open('downloaded_actors_images.pkl','wb'))
 
